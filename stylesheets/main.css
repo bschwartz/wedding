@@ -37,6 +37,12 @@ h1 {
   font-size: 120px;
 }
 
+h3 {
+  border-top: 1px dotted white;
+  padding-top: 50px;
+  margin-top: 50px;
+}
+
 a {
   color: white;
 }
